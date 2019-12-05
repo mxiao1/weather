@@ -1,0 +1,1028 @@
+[INFO] [2019-11-06 09:45:58][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 09:45:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 09:45:59][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@402f32ff: startup date [Wed Nov 06 09:45:59 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 09:45:59][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 09:45:59][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 09:45:59][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 09:46:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-06 09:46:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+[INFO] [2019-11-06 09:46:01][org.springframework.jdbc.support.SQLErrorCodesFactory]SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase]
+[INFO] [2019-11-06 09:46:01][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@402f32ff: startup date [Wed Nov 06 09:45:59 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 09:47:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 09:47:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 09:47:08][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@402f32ff: startup date [Wed Nov 06 09:47:08 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 09:47:08][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 09:47:08][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 09:47:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-06 09:47:10][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@402f32ff: startup date [Wed Nov 06 09:47:08 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 14:58:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 14:58:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 14:58:51][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@6a024a67: startup date [Wed Nov 06 14:58:51 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 14:58:51][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 14:58:51][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 14:58:51][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 14:58:52][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-06 14:58:53][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@6a024a67: startup date [Wed Nov 06 14:58:51 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 15:03:00][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 15:03:00][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 15:03:00][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@402f32ff: startup date [Wed Nov 06 15:03:00 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 15:03:00][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 15:03:00][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 15:03:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-06 15:03:02][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@402f32ff: startup date [Wed Nov 06 15:03:00 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:20:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:20:28][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]
+[INFO] [2019-11-06 17:20:28][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:20:28][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:20:28 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:20:28][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:20:28][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:20:29][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:20:29][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7e3181aa] to prepare test instance [my@253d9f73]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisPool' defined in file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]: Could not resolve matching constructor (hint: specify index/type/name arguments for simple parameters to avoid type ambiguities)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+[INFO] [2019-11-06 17:21:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:21:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]
+[INFO] [2019-11-06 17:21:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:21:36][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:21:36 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:21:36][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:21:36][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:21:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:21:37][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@436bc36] to prepare test instance [my@5fe1ce85]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClient' defined in file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:278)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:125)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:270)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:9)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 43 more
+[INFO] [2019-11-06 17:23:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:23:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]
+[INFO] [2019-11-06 17:23:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:23:36][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@548b7f67: startup date [Wed Nov 06 17:23:36 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:23:36][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:23:36][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:23:37][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:23:37][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@5d8bafa9] to prepare test instance [my@576f63f6]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:278)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:125)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:270)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:9)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 43 more
+[INFO] [2019-11-06 17:24:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:24:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]
+[INFO] [2019-11-06 17:24:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:24:11][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@548b7f67: startup date [Wed Nov 06 17:24:11 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:24:11][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:24:11][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:24:12][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:24:12][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@550a1967] to prepare test instance [my@2a640157]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:278)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:125)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:270)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:9)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 43 more
+[INFO] [2019-11-06 17:25:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:25:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]
+[INFO] [2019-11-06 17:25:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:25:49][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:25:49 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:25:49][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:25:49][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:25:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:25:50][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@758705fa] to prepare test instance [my@ebaa6cb]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:278)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:125)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:270)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:9)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 43 more
+[INFO] [2019-11-06 17:30:13][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:30:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]
+[INFO] [2019-11-06 17:30:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:30:14][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:30:14 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:30:14][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:30:14][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:30:14][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:30:15][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:30:15][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@758705fa] to prepare test instance [my@ebaa6cb]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\spring\redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:278)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:125)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:270)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:9)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 43 more
+[INFO] [2019-11-06 17:30:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:30:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:30:59][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:30:59 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:30:59][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:30:59][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:31:00][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:31:00][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7ac0e420] to prepare test instance [my@289710d9]
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'my': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.xiao.service.JedisClientSingle my.jedisClientSingle; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.xiao.service.JedisClientSingle] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:384)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:110)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.xiao.service.JedisClientSingle my.jedisClientSingle; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.xiao.service.JedisClientSingle] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 25 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.xiao.service.JedisClientSingle] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1100)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:960)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 27 more
+[INFO] [2019-11-06 17:31:00][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:30:59 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:35:10][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:35:10][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:35:10][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:35:10 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:35:10][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:35:10][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:35:11][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[ERROR] [2019-11-06 17:35:11][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@7ac0e420] to prepare test instance [my@289710d9]
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'my': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.xiao.service.JedisClientSingle my.jedisClientSingle; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.xiao.service.JedisClientSingle] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:384)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:110)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.xiao.service.JedisClientSingle my.jedisClientSingle; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.xiao.service.JedisClientSingle] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 25 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.xiao.service.JedisClientSingle] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1100)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:960)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 27 more
+[INFO] [2019-11-06 17:35:11][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:35:10 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:36:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:36:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:36:45][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:36:45 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:36:45][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:36:45][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:36:46][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[ERROR] [2019-11-06 17:36:46][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2f62ea70] to prepare test instance [my@24ba9639]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.xiao.service.JedisClientSingle.<init>()
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1076)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1021)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.xiao.service.JedisClientSingle.<init>()
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:85)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1069)
+	... 40 more
+Caused by: java.lang.NoSuchMethodException: com.xiao.service.JedisClientSingle.<init>()
+	at java.lang.Class.getConstructor0(Class.java:3082)
+	at java.lang.Class.getDeclaredConstructor(Class.java:2178)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:80)
+	... 41 more
+[INFO] [2019-11-06 17:38:32][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:38:32][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:38:32][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-06 17:38:32][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-06 17:38:32][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:38:32 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:38:33][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:38:33][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:38:33][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[ERROR] [2019-11-06 17:38:34][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2df6226d] to prepare test instance [my@12ed9db6]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:278)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:125)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:270)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 43 more
+[INFO] [2019-11-06 17:40:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:40:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:40:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-06 17:40:14][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-06 17:40:14][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:40:14 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:40:14][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:40:14][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:40:14][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[ERROR] [2019-11-06 17:40:15][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2df6226d] to prepare test instance [my@12ed9db6]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:278)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1114)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1017)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:125)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:270)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:11)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 43 more
+[INFO] [2019-11-06 17:45:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:45:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:45:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-06 17:45:11][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-06 17:45:11][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@548b7f67: startup date [Wed Nov 06 17:45:11 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:45:11][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:45:11][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:45:12][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[ERROR] [2019-11-06 17:45:12][org.springframework.test.context.TestContextManager]Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2766ca9d] to prepare test instance [my@5460cf3a]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.DefaultTestContext.getApplicationContext(DefaultTestContext.java:101)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:109)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:75)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:319)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:212)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:232)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:89)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:71)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:175)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jedisClientSingle' defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1076)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1021)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:504)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:121)
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:100)
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:250)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContextInternal(CacheAwareContextLoaderDelegate.java:64)
+	at org.springframework.test.context.CacheAwareContextLoaderDelegate.loadContext(CacheAwareContextLoaderDelegate.java:91)
+	... 24 more
+Caused by: org.springframework.beans.BeanInstantiationException: Could not instantiate bean class [com.xiao.service.JedisClientSingle]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:164)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1069)
+	... 40 more
+Caused by: java.lang.NullPointerException
+	at com.xiao.service.JedisClientSingle.<init>(JedisClientSingle.java:13)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	... 42 more
+[INFO] [2019-11-06 17:47:37][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-06 17:47:38][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-06 17:47:38][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-06 17:47:38][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-06 17:47:38][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:47:38 CST 2019]; root of context hierarchy
+[INFO] [2019-11-06 17:47:38][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-06 17:47:38][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-06 17:47:38][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-06 17:47:39][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-06 17:47:39][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Wed Nov 06 17:47:38 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:36:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-07 14:36:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-07 14:36:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-07 14:36:20][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-07 14:36:20][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 14:36:20 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:36:20][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-07 14:36:20][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-07 14:36:21][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-07 14:36:21][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 14:36:20 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:39:04][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-07 14:39:04][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-07 14:39:04][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-07 14:39:04][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-07 14:39:04][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@5c1a8622: startup date [Thu Nov 07 14:39:04 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:39:05][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-07 14:39:05][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-07 14:39:05][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-07 14:39:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-07 14:40:33][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@5c1a8622: startup date [Thu Nov 07 14:39:04 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:45:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-07 14:45:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-07 14:45:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-07 14:45:33][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-07 14:45:33][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 14:45:33 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:45:33][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-07 14:45:33][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-07 14:45:34][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-07 14:45:34][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 14:45:33 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:46:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-07 14:46:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-07 14:46:58][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-07 14:46:58][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-07 14:46:58][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 14:46:58 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 14:46:58][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-07 14:46:58][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-07 14:46:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-07 14:46:59][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-07 14:46:59][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 14:46:58 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 15:25:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-07 15:25:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-07 15:25:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-07 15:25:08][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-07 15:25:08][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 15:25:08 CST 2019]; root of context hierarchy
+[INFO] [2019-11-07 15:25:08][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-07 15:25:08][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-07 15:25:09][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-07 15:25:10][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@1efbd816: startup date [Thu Nov 07 15:25:08 CST 2019]; root of context hierarchy
+[INFO] [2019-11-18 11:20:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mvc.xml]
+[INFO] [2019-11-18 11:20:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-mybatis.xml]
+[INFO] [2019-11-18 11:20:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]
+[INFO] [2019-11-18 11:20:49][org.springframework.beans.factory.support.DefaultListableBeanFactory]Overriding bean definition for bean 'jedisClientSingle': replacing [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\com\xiao\service\JedisClientSingle.class]] with [Generic bean: class [com.xiao.service.JedisClientSingle]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [E:\IdeaProjects\weather\target\classes\spring\spring-redis.xml]]
+[INFO] [2019-11-18 11:20:49][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@548b7f67: startup date [Mon Nov 18 11:20:49 CST 2019]; root of context hierarchy
+[INFO] [2019-11-18 11:20:49][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2019-11-18 11:20:49][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/xiao/hello],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.xiao.controller.HelloController.hello() throws java.lang.Exception
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.html] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.js] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.css] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.png] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.gif] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.woff] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.ttf] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.jpg] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp3] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#8'
+[INFO] [2019-11-18 11:20:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/**/*.mp4] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#9'
+[INFO] [2019-11-18 11:20:51][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@548b7f67: startup date [Mon Nov 18 11:20:49 CST 2019]; root of context hierarchy
